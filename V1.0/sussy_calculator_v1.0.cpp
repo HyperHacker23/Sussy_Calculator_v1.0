@@ -44,4 +44,6 @@ int main()
 		}
 	}
 	cout<<"\n\nThank you for using sussy calculator v1.0"<<endl;
+	system("pause");
+	return 0;
 }
